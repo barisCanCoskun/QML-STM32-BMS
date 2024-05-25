@@ -1,0 +1,58 @@
+{
+    "classes": [
+        {
+            "className": "SerialManager",
+            "object": true,
+            "qualifiedClassName": "SerialManager",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "notice",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "openSerialPort",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "closeSerialPort",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "name": "writeData",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "readData",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "serialmanager.h",
+    "outputRevision": 68
+}

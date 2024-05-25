@@ -1,0 +1,1 @@
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/appQSerialPort-example_autogen/include/../EWIEGA46WW/moc_serialmanager.cpp.json

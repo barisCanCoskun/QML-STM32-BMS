@@ -1,0 +1,14 @@
+-rootPath
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example
+-cmake-output
+-output-file
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQSerialPort-example.cmake
+-importPath
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/QSerialPort-example
+-importPath
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-importPath
+/home/baris/Qt/6.6.3/gcc_64/./qml
+-qrcFiles
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_QSerialPort-example.qrc
+/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/appQSerialPort-example_raw_qml_0.qrc
