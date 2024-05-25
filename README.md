@@ -1,0 +1,8 @@
+# QML-STM32-BMS
+Getting BMS data with STM32 and showing to user with QML application  
+  
+In this QML project, I'm getting BMS data from STM32 and showing it on the QML application.  
+Whenever the user pushes the button on the QML app, the Qt side writes related data to the serialport.  
+On the STM32 side, when data received, it transmits related data to serialport.  
+Used STM32L476, Qt6, and Ubuntu 22.  
+  
