@@ -1,5 +1,0 @@
-module QSerialPort-example
-typeinfo appQSerialPort-example.qmltypes
-prefer :/QSerialPort-example/
-Main 1.0 Main.qml
-

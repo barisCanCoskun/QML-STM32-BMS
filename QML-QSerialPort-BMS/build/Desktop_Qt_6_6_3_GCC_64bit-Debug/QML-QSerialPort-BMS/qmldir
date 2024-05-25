@@ -1,0 +1,5 @@
+module QML-QSerialPort-BMS
+typeinfo appQML-QSerialPort-BMS.qmltypes
+prefer :/QML-QSerialPort-BMS/
+Main 1.0 Main.qml
+

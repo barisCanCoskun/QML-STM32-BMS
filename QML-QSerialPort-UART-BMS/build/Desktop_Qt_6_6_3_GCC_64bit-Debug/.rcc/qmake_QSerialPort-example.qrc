@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/QSerialPort-example">
-    <file alias="qmldir">/home/baris/barisCan/Udemy/QtCourses/QML-for-Beginners/example/QSerialPort-example/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/QSerialPort-example/qmldir</file>
-  </qresource>
-</RCC>
-

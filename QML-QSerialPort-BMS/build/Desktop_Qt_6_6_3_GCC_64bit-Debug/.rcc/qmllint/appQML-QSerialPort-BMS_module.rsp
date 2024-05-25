@@ -1,0 +1,10 @@
+-I
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-I
+/home/baris/Qt/6.6.3/gcc_64/./qml
+--resource
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_QML-QSerialPort-BMS.qrc
+--resource
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/appQML-QSerialPort-BMS_raw_qml_0.qrc
+--module
+QML-QSerialPort-BMS

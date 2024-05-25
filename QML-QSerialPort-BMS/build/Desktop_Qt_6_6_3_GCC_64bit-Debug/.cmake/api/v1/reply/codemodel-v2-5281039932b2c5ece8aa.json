@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9af5d37394e2c7483bf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QML-QSerialPort-BMS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1540eb7e7fbbc57e27c6.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-e1bba586a5722fd4c440.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b4f7d1d4fc6e33e09716.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c31c7b95ed6c5c0b993f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS-Debug-945ecf6b6ef04a97d02c.json",
+					"name" : "appQML-QSerialPort-BMS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_autogen-Debug-837973af66ef5fc766a0.json",
+					"name" : "appQML-QSerialPort-BMS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_autogen_timestamp_deps-Debug-84529cb7972db424c363.json",
+					"name" : "appQML-QSerialPort-BMS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_qmlimportscan-Debug-c8196896180381296854.json",
+					"name" : "appQML-QSerialPort-BMS_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_qmllint-Debug-54b5db6be4ae609328de.json",
+					"name" : "appQML-QSerialPort-BMS_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_qmllint_json-Debug-b7d3337029aa71abec49.json",
+					"name" : "appQML-QSerialPort-BMS_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_qmllint_module-Debug-c51e912e48dfb830dd3e.json",
+					"name" : "appQML-QSerialPort-BMS_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_qmltyperegistration-Debug-6ee099e85b1e83ef2865.json",
+					"name" : "appQML-QSerialPort-BMS_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQML-QSerialPort-BMS_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQML-QSerialPort-BMS_tooling-Debug-7efa578d139368840eca.json",
+					"name" : "appQML-QSerialPort-BMS_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

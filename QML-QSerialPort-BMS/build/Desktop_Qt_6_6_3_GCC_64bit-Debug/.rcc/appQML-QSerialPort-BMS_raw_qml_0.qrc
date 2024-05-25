@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QML-QSerialPort-BMS/">
+    <file alias="Main.qml">/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/Main.qml</file>
+  </qresource>
+</RCC>
+

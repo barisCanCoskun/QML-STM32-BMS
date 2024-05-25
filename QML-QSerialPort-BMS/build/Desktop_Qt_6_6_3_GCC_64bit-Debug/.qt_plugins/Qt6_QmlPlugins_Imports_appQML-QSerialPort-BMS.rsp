@@ -1,0 +1,14 @@
+-rootPath
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS
+-cmake-output
+-output-file
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQML-QSerialPort-BMS.cmake
+-importPath
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/QML-QSerialPort-BMS
+-importPath
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-importPath
+/home/baris/Qt/6.6.3/gcc_64/./qml
+-qrcFiles
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_QML-QSerialPort-BMS.qrc
+/home/baris/barisCan/Udemy/QtCourses/QSerialPort-Uart/QML-QSerialPort-BMS/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/appQML-QSerialPort-BMS_raw_qml_0.qrc
